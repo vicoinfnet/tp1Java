@@ -5,6 +5,6 @@ public class App
 {
     public static void main(String[] args) {
         DistanceConverter converter = new DistanceConverter();
-        converter.convertAndPrint(6.0);
+        converter.convertAndPrint(7.0);
     }
 }
